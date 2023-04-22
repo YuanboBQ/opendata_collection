@@ -1,4 +1,2 @@
-# hamel
-Repo for Hamel's Professional Website
-
-https://hamel.dev
+# Open data collection
+Repo for Open data collection
