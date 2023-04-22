@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>OpenData</title>
+<link>https://hamel.dev/index.html</link>
+<atom:link href="https://hamel.dev/index.xml" rel="self" type="application/rss+xml"/>
+<description>A collection of technical blogs and talks on machine learning and data science.</description>
+<image>
+<url>https://hamel.dev/quarto.png</url>
+<title>OpenData</title>
+<link>https://hamel.dev/index.html</link>
+<height>86</height>
+<width>144</width>
+</image>
+<generator>quarto-1.2.335</generator>
+<lastBuildDate>Thu, 26 Jan 2023 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Abir et al. (2023)</title>
+  <link>https://hamel.dev/blog/posts/abir2023.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>The purpose of exploration is to reduce goal-relevant uncertainty. This can be achieved by choosing to explore the parts of the environment one is most uncertain about. Humans, however, often choose to avoid uncertainty. How do humans balance approaching and avoiding uncertainty during exploration? To answer this question, we developed a task requiring participants to explore a simulated environment towards a clear goal. We compared human choices to the predictions of the optimal exploration policy and a hierarchy of simpler strategies. We found that participants generally explored the object they were more uncertain about. However, when overall uncertainty about choice options was high, participants avoided objects they were more uncertain about, learning instead about better known objects. We examined reaction times and individual differences to understand the costs and benefits of this strategy. We conclude that balancing approaching and avoiding uncertainty ameliorates the costs of exploration in a resource-rational manner.</p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>journal: PsyArXiv<br>
+paper_url: <a href="https://doi.org/10.31234/osf.io/gtxam">https://doi.org/10.31234/osf.io/gtxam</a><br>
+data_url: <a href="https://osf.io/6zyev/">https://osf.io/6zyev/</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://hamel.dev/blog/posts/abir2023.html</guid>
+  <pubDate>Thu, 26 Jan 2023 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Algermissen et al. (2021)</title>
+  <link>https://hamel.dev/blog/posts/algermissen2021.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Action selection is biased by the valence of anticipated outcomes. To assess mechanisms by which these motivational biases are expressed and controlled, we measured simultaneous EEG-fMRI during a motivational Go/NoGo learning task (N = 36), leveraging the temporal resolution of EEG and subcortical access of fMRI. VmPFC BOLD encoded cue valence, importantly predicting trial-by-trial valence-driven response speed differences and EEG theta power around cue onset. In contrast, striatal BOLD encoded selection of active Go responses and correlated with theta power around response time. Within trials, theta power ramped in the fashion of an evidence accumulation signal for the value of making a Go response, capturing the faster responding to reward cues. Our findings reveal a dual nature of midfrontal theta power, with early components reflecting the vmPFC contribution to motivational biases, and late components reflecting their striatal translation into behavior, in line with influential recent value of work theories of striatal processing.</p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>journal: Cereb. Cortex paper_url: <a href="https://doi.org/10.1093/cercor/bhab391">https://doi.org/10.1093/cercor/bhab391</a> data_url: <a href="https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6">https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://hamel.dev/blog/posts/algermissen2021.html</guid>
+  <pubDate>Tue, 23 Nov 2021 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Albrecht et al. (2016)</title>
+  <link>https://hamel.dev/blog/posts/albrecht2016.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>The negative symptoms of schizophrenia (SZ) are associated with a pattern of reinforcement learning (RL) deficits likely related to degraded representations of reward values. However, the RL tasks used to date have required active responses to both reward and punishing stimuli. Pavlovian biases have been shown to affect performance on these tasks through invigoration of action to reward and inhibition of action to punishment, and may be partially responsible for the effects found in patients. Forty-five patients with schizophrenia and 30 demographically-matched controls completed a four-stimulus reinforcement learning task that crossed action (Go or NoGo) and the valence of the optimal outcome (reward or punishment-avoidance), such that all combinations of action and outcome valence were tested. Behaviour was modelled using a six-parameter RL model and EEG was simultaneously recorded. Patients demonstrated a reduction in Pavlovian performance bias that was evident in a reduced Go bias across the full group. In a subset of patients administered clozapine, the reduction in Pavlovian bias was enhanced. The reduction in Pavlovian bias in SZ patients was accompanied by feedback processing differences at the time of the P3a component. The reduced Pavlovian bias in patients is suggested to be due to reduced fidelity in the communication between striatal regions and frontal cortex. It may also partially account for previous findings of poorer Go-learning in schizophrenia where Go responses or Pavlovian consistent responses are required for optimal performance. An attenuated P3a component dynamic in patients is consistent with a view that deficits in operant learning are due to impairments in adaptively using feedback to update representations of stimulus value.</p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>journal: PLoS One paper_url: <a href="https://doi.org/10.1371/journal.pone.0152781">https://doi.org/10.1371/journal.pone.0152781</a> data_url: <a href="https://zenodo.org/record/29601">https://zenodo.org/record/29601</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://hamel.dev/blog/posts/albrecht2016.html</guid>
+  <pubDate>Sun, 03 Apr 2016 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

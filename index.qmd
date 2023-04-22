@@ -1,0 +1,48 @@
+---
+sidebar: false
+description: "A collection of technical blogs and talks on machine learning and data science."
+image: quarto.png
+toc: true
+listing:
+  date-format: short
+  feed: true
+  filter-ui: false
+  type: table
+  sort-ui: false
+  sort: "date desc"
+  categories: false
+  fields: [date, title]
+  id: blog-listings
+  contents: [blog_data/blogs.yml, blog/posts]
+aliases: ["blog/"]
+format:
+  html:
+    anchor-sections: true
+---
+
+::: {layout="[21,79]" .profile-header}
+
+![](open_data_logo.png){.profile-pic}
+
+OpenData is a database of publicly available behavioral datasets. To browse the database, click on the links above or use the search bar at the top-right of this page. The goal of this project is simply to make it easier for researchers to find and use publicly available behavioral data as part of research.
+
+:::
+
+
+## 💼 Get In Touch
+
+Email me at `yuanbopsy@gmail.com`, or DM me on [![](icon-linkedin.png){width="3%"}](https://www.linkedin.com/in/hamelhusain/) or [![](icons-twitter.png){width="3%"}](https://twitter.com/HamelHusain) if you'd like to chat!
+
+---
+
+## 📮 Blog Posts
+
+
+::: {#blog-listings}
+:::
+
+## 📬 Subscribe
+
+Subscribe via [<i class="bi bi-rss"></i> RSS](index.xml) or enter your email below:
+
+<script async data-uid="f405c5ca98" src="https://hamel.ck.page/f405c5ca98/index.js"></script>
