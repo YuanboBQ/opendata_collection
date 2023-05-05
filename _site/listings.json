@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/posts/Hertz2023.html",
       "/blog/posts/abir2023.html",
       "/blog/posts/algermissen2021.html",
       "/blog/posts/albrecht2016.html"
@@ -10,6 +11,7 @@
   {
     "listing": "/blog/secret.html",
     "items": [
+      "/blog/posts/Hertz2023.html",
       "/blog/posts/abir2023.html",
       "/blog/posts/algermissen2021.html",
       "/blog/posts/albrecht2016.html"
@@ -38,80 +40,9 @@
     ]
   },
   {
-    "listing": "/notes/k8s/security/index.html",
-    "items": [
-      "/notes/k8s/security/26-network-security.html",
-      "/notes/k8s/security/27-container-security.html",
-      "/notes/k8s/security/28-workloads.html",
-      "/notes/k8s/security/29-cluster-updates.html",
-      "/notes/k8s/security/30-rbac.html"
-    ]
-  },
-  {
-    "listing": "/notes/k8s/multi_container_pods/index.html",
-    "items": [
-      "/notes/k8s/multi_container_pods/08-Multi-Container-Pods.html",
-      "/notes/k8s/multi_container_pods/09-Ambassador Sidecars.html",
-      "/notes/k8s/multi_container_pods/10-Downsides of MC Pods.html",
-      "/notes/k8s/multi_container_pods/11-Sharing Processes in MC Pods.html"
-    ]
-  },
-  {
-    "listing": "/notes/k8s/index.html",
-    "items": [
-      "/notes/k8s/02-Basics.html",
-      "/notes/k8s/03-Secrets.html",
-      "/notes/k8s/storage/index.html",
-      "/notes/k8s/scaling/index.html",
-      "/notes/k8s/12-StatefulSet.html",
-      "/notes/k8s/13-JobsCron.html",
-      "/notes/k8s/14-RolloutsRollbacks.html",
-      "/notes/k8s/helm/index.html",
-      "/notes/k8s/multi_container_pods/index.html",
-      "/notes/k8s/18-Developer.html",
-      "/notes/k8s/19-Pod-Lifecycle.html",
-      "/notes/k8s/20-Health-Check.html",
-      "/notes/k8s/22a-Resource-Requests.html",
-      "/notes/k8s/22-Resource-Limits.html",
-      "/notes/k8s/23-Logging.html",
-      "/notes/k8s/24-monitoring.html",
-      "/notes/k8s/25-Ingress.html",
-      "/notes/k8s/26-cluster.html",
-      "/notes/k8s/security/index.html",
-      "/notes/k8s/27-workload-placement.html",
-      "/notes/k8s/28-auto-scaling.html",
-      "/notes/k8s/29-preemption.html",
-      "/notes/k8s/99-Random.html"
-    ]
-  },
-  {
-    "listing": "/notes/k8s/storage/index.html",
-    "items": [
-      "/notes/k8s/storage/04-Basics.html",
-      "/notes/k8s/storage/05-Dynamic Provisioning.html"
-    ]
-  },
-  {
-    "listing": "/notes/k8s/scaling/index.html",
-    "items": [
-      "/notes/k8s/scaling/06-ReplicaSets.html",
-      "/notes/k8s/scaling/07- Scaling.html"
-    ]
-  },
-  {
-    "listing": "/notes/k8s/helm/index.html",
-    "items": [
-      "/notes/k8s/helm/15-Helm.html",
-      "/notes/k8s/helm/16-Creating Your Own Helm Charts.html",
-      "/notes/k8s/helm/17-Helm Upgrade & Rollbacks.html",
-      "/notes/k8s/helm/21-Testing-With-Helm.html"
-    ]
-  },
-  {
     "listing": "/notes/index.html",
     "items": [
       "/notes/docker/index.html",
-      "/notes/actions/index.html",
       "/notes/how-to-learn/index.html",
       "/notes/jupyter/index.html",
       "/notes/linux/index.html",
@@ -145,13 +76,6 @@
     ]
   },
   {
-    "listing": "/notes/actions/index.html",
-    "items": [
-      "/notes/actions/resources.html",
-      "/notes/actions/ocotkit.html"
-    ]
-  },
-  {
     "listing": "/notes/web-scraping/index.html",
     "items": [
       "/notes/web-scraping/browser-to-python.html"
@@ -173,9 +97,5 @@
       "/notes/jupyter/remote_browser.html",
       "/notes/jupyter/Best Way To Launch Jupyter On A Remote Server.html"
     ]
-  },
-  {
-    "listing": "/oss/opensource.html",
-    "items": []
   }
 ]

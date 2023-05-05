@@ -17,7 +17,29 @@
 <width>144</width>
 </image>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Thu, 26 Jan 2023 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 May 2023 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nafcha &amp; Hertz, 2023</title>
+  <link>https://hamel.dev/blog/posts/Hertz2023.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>An individual can learn about someone else’s traits by accumulating experiences from the specific relationship and by incorporating group identity information. Here we examine how group identity affects learning about others and the social learning mechanisms underlying the persistence of intergroup bias. Participants played a game with four other bot-players that entailed collecting stars and could sacrifice a move to zap another player, who would then lose three turns. The bot-players’ avatars were either the same or a different color than the participant’s avatar. Over six experimental conditions, participants were exposed to different behavioral patterns of bot-players—either zappers or zap-avoiders. We found that participants adjusted their zapping behavior according to the bot-player’s behavior and were more likely to zap zappers than avoiders. Participants were also more likely to zap outgroup players and less likely to zap ingroup players, regardless of the player’s behavior, indicating a persistent intergroup bias. Using a computational learning model, we identified the contribution of three learning mechanisms to this tendency. Prior beliefs about players’ zapping behavior were higher for outgroup than for ingroup players. Learning rates were very low for outgroup players, making it very difficult to overcome prior beliefs, whereas learning rates for ingroup players were high. Finally, participants attributed the negative behavior of one outgroup player to all other outgroup players, making beliefs about outgroup players more homogeneous. Our results show how group identity shapes and confounds social learning and highlight how intergroup bias can persist despite interaction and experience.</p>
+<p>一个人可以通过积累与特定关系的经验和融入群体身份信息来了解别人的特点。在这里，我们研究群体身份如何影响对他人的学习以及支持种族偏见持续存在的社会学习机制。参与者与四个其他机器玩家一起玩一个收集星星并可以牺牲移动来击中另一个玩家（然后该玩家将失去三次回合）的游戏。机器玩家的头像要么与参与者的头像相同，要么不同颜色。在六个实验条件下，参与者接触到不同行为模式的机器玩家——即打手或避开打手。我们发现，参与者根据机器玩家的行为调整自己击中其他人（zapping） 的行为，并更有可能攻击打手而非避开打手。无论是什么情况下，参与者都更有可能攻击外部组成员而不是内部组成员，并且很少攻击内部组成员，表明种族间偏见具有持续性质。使用计算学习模型，我们确定了三种学习机制对此倾向性产生贡献：关于球员 zapping 行为先前信念对外团队比内团队更高。对于外团队的学习率非常低，很难克服先前的信念，而内团队的学习率则较高。最后，参与者将一个外部组成员的负面行为归因于所有其他外部组成员，使得关于外部组成员的信仰更加同质化。我们的结果展示了群体身份如何塑造和混淆社会学习，并强调种族偏见如何在互动和经验中持续存在。</p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>journal: PsyArXiv</p>
+<p>paper_url: <a href="https://psyarxiv.com/b95ev">https://psyarxiv.com/b95ev</a></p>
+<p>data_url: <a href="https://osf.io/nx2hv/">https://osf.io/nx2hv/</a></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://hamel.dev/blog/posts/Hertz2023.html</guid>
+  <pubDate>Thu, 04 May 2023 16:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Abir et al. (2023)</title>
   <link>https://hamel.dev/blog/posts/abir2023.html</link>
@@ -28,9 +50,9 @@
 <p>The purpose of exploration is to reduce goal-relevant uncertainty. This can be achieved by choosing to explore the parts of the environment one is most uncertain about. Humans, however, often choose to avoid uncertainty. How do humans balance approaching and avoiding uncertainty during exploration? To answer this question, we developed a task requiring participants to explore a simulated environment towards a clear goal. We compared human choices to the predictions of the optimal exploration policy and a hierarchy of simpler strategies. We found that participants generally explored the object they were more uncertain about. However, when overall uncertainty about choice options was high, participants avoided objects they were more uncertain about, learning instead about better known objects. We examined reaction times and individual differences to understand the costs and benefits of this strategy. We conclude that balancing approaching and avoiding uncertainty ameliorates the costs of exploration in a resource-rational manner.</p>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<p>journal: PsyArXiv<br>
-paper_url: <a href="https://doi.org/10.31234/osf.io/gtxam">https://doi.org/10.31234/osf.io/gtxam</a><br>
-data_url: <a href="https://osf.io/6zyev/">https://osf.io/6zyev/</a></p>
+<p>journal: PsyArXiv</p>
+<p>paper_url: <a href="https://doi.org/10.31234/osf.io/gtxam">https://doi.org/10.31234/osf.io/gtxam</a></p>
+<p>data_url: <a href="https://osf.io/6zyev/">https://osf.io/6zyev/</a></p>
 
 
 </section>
@@ -49,7 +71,9 @@ data_url: <a href="https://osf.io/6zyev/">https://osf.io/6zyev/</a></p>
 <p>Action selection is biased by the valence of anticipated outcomes. To assess mechanisms by which these motivational biases are expressed and controlled, we measured simultaneous EEG-fMRI during a motivational Go/NoGo learning task (N = 36), leveraging the temporal resolution of EEG and subcortical access of fMRI. VmPFC BOLD encoded cue valence, importantly predicting trial-by-trial valence-driven response speed differences and EEG theta power around cue onset. In contrast, striatal BOLD encoded selection of active Go responses and correlated with theta power around response time. Within trials, theta power ramped in the fashion of an evidence accumulation signal for the value of making a Go response, capturing the faster responding to reward cues. Our findings reveal a dual nature of midfrontal theta power, with early components reflecting the vmPFC contribution to motivational biases, and late components reflecting their striatal translation into behavior, in line with influential recent value of work theories of striatal processing.</p>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<p>journal: Cereb. Cortex paper_url: <a href="https://doi.org/10.1093/cercor/bhab391">https://doi.org/10.1093/cercor/bhab391</a> data_url: <a href="https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6">https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6</a></p>
+<p>journal: Cereb. Cortex</p>
+<p>paper_url: <a href="https://doi.org/10.1093/cercor/bhab391">https://doi.org/10.1093/cercor/bhab391</a></p>
+<p>data_url: <a href="https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6">https://data.donders.ru.nl/collections/di/dccn/DSC_3017042.02_604?6</a></p>
 
 
 </section>
@@ -66,9 +90,12 @@ data_url: <a href="https://osf.io/6zyev/">https://osf.io/6zyev/</a></p>
 
 
 <p>The negative symptoms of schizophrenia (SZ) are associated with a pattern of reinforcement learning (RL) deficits likely related to degraded representations of reward values. However, the RL tasks used to date have required active responses to both reward and punishing stimuli. Pavlovian biases have been shown to affect performance on these tasks through invigoration of action to reward and inhibition of action to punishment, and may be partially responsible for the effects found in patients. Forty-five patients with schizophrenia and 30 demographically-matched controls completed a four-stimulus reinforcement learning task that crossed action (Go or NoGo) and the valence of the optimal outcome (reward or punishment-avoidance), such that all combinations of action and outcome valence were tested. Behaviour was modelled using a six-parameter RL model and EEG was simultaneously recorded. Patients demonstrated a reduction in Pavlovian performance bias that was evident in a reduced Go bias across the full group. In a subset of patients administered clozapine, the reduction in Pavlovian bias was enhanced. The reduction in Pavlovian bias in SZ patients was accompanied by feedback processing differences at the time of the P3a component. The reduced Pavlovian bias in patients is suggested to be due to reduced fidelity in the communication between striatal regions and frontal cortex. It may also partially account for previous findings of poorer Go-learning in schizophrenia where Go responses or Pavlovian consistent responses are required for optimal performance. An attenuated P3a component dynamic in patients is consistent with a view that deficits in operant learning are due to impairments in adaptively using feedback to update representations of stimulus value.</p>
+<p>精神分裂症（SZ）的负性症状与一种弱化的奖励价值表征相关的强化学习（RL）缺陷模式有关。然而，迄今为止使用的RL任务需要对奖励和惩罚刺激做出积极反应。巴甫洛夫偏差已被证明会通过激发对奖励的行动和抑制对惩罚的行动来影响这些任务的表现，并且可能部分解释病人的影响。45名患有精神分裂症的患者和30名与之匹配的对照组完成了一个四刺激强化学习任务，该任务交叉了行动（Go或NoGo）和最佳结果的价值（奖励或惩罚-避免），以测试所有行动和结果价值的组合。使用六参数RL模型对行为进行建模，并同时记录脑电图（EEG）。患者表现出巴甫洛夫性能偏差的减少，这在全组中表现为Go偏差的减少。在接受氯氮平治疗的患者子集中，巴甫洛夫偏差的减少得到了增强。患者中巴甫洛夫偏差的减少伴随着P3a成分时的反馈处理差异。患者中巴甫洛夫性能偏差的降低被认为是由于纹状体区域和前额皮层之间通信的保真度降低。这也可能部分解释了以前发现的精神分裂症患者学习Go或巴甫洛夫一致反应时表现较差的情况。患者中P3a成分动态的减弱支持了一种观点，即操作性学习的缺陷是由于不能适应性地使用反馈来更新刺激价值表征而导致的。</p>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<p>journal: PLoS One paper_url: <a href="https://doi.org/10.1371/journal.pone.0152781">https://doi.org/10.1371/journal.pone.0152781</a> data_url: <a href="https://zenodo.org/record/29601">https://zenodo.org/record/29601</a></p>
+<p>journal: PLoS One</p>
+<p>paper_url: <a href="https://doi.org/10.1371/journal.pone.0152781">https://doi.org/10.1371/journal.pone.0152781</a></p>
+<p>data_url: <a href="https://zenodo.org/record/29601">https://zenodo.org/record/29601</a></p>
 
 
 </section>
